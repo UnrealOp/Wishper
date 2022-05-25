@@ -10,7 +10,7 @@ Telegram bot for Whisper Message.
 
 ## Usage
 
-- [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/UnrealOp/Wishper&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
+- [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/UnrealOp/Wishper&envs=API_HASH,API_ID,BOT_TOKEN)
 
 
 ### Deploy to Heroku

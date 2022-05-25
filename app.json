@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/WhisperBot",
+  "repository": "https://github.com/UnrealOp/Wishper",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
